@@ -1,0 +1,11 @@
+Hi, Im Ardavan Shamroshan and This is Laravel ImageUpload Service using intervention image v2.
+
+Follow the rules below :
+
+
+1 . first run "composer require intervention/image" in your project directory.
+2 . copy 'Services' folder to your "app>Http" laravel directory.
+3 . copy 'config>image.php' file to your "config" directory.
+
+enjoy :)
+
